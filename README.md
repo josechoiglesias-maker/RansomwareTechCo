@@ -1,0 +1,2 @@
+La empresa ficticia TechCo sufrió un ataque de ransomware que comprometió servidores críticos, bases de datos de clientes y sistemas de respaldo. El incidente evidenció debilidades importantes en la seguridad de la organización, especialmente en segmentación de red, monitoreo y protección de backups.
+Este documento desarrolla un Plan de Respuesta a Incidentes basado en el marco de ciberseguridad del National Institute of Standards and Technology (NIST CSF)
